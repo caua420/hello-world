@@ -1,4 +1,4 @@
 # hello-world
-tamo ai na atividade
+escrevral ("tamo ai na atividade")
 hi seres humans 
 i am maconheiro!
